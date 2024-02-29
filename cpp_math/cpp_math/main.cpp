@@ -1,4 +1,4 @@
-#include<iostream>
+﻿#include<iostream>
 using namespace std;
 #include<vector>
 void quick_Sort(vector<int>& nums, int l, int r)
@@ -22,6 +22,8 @@ void print_vector(vector<int> a)
 	}
 	cout << endl;
 }
+
+
 
 int main(int argc, char* argv[])
 {
